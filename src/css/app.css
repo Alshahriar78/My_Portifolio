@@ -53,6 +53,7 @@ section{
     border-radius: 10px;
     height: 50%;
     background-color: white;
+    margin-bottom: 20px;
 }
 #mern-stack{
     border-left: 7px solid;
